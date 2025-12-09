@@ -1,6 +1,6 @@
 # 👨‍💻 Hey, I'm Brayan!
 
-**Fullstack Developer | Node.js | React | React Native | Python | HTML • CSS • JavaScript | PL/SQL**
+**Fullstack Developer | Node.js | React | React Native | Python | Java | HTML • CSS • JavaScript | PL/SQL**
 
 🎓 Graduated in **Systems Analysis and Development**  
 📘 Currently starting **IT Management**  
@@ -16,7 +16,7 @@
 📍 **Location:** São José dos Pinhais - PR  
 🌐 **Portfolio:** https://brayansilver.github.io/brayan/brayan/  
 🔗 **LinkedIn:** https://linkedin.com/in/brayan-rosa-da-silveira-b80636150  
-📧 **Email:** *(adicione seu e-mail aqui)*
+📧 **Email:** *brayansilver.teen@gmail.com*
 
 ---
 
@@ -29,10 +29,12 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="Eclipse" />
 </div>
 
 ### **Databases**
