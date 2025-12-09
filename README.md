@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👨‍💻 Hey, I'm Brayan!
 
-<!--
-**BrayanSilver/BrayanSilver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fullstack Developer | Node.js | React | React Native | Python | HTML • CSS • JavaScript | PL/SQL**
 
-Here are some ideas to get you started:
+🎓 Graduated in **Systems Analysis and Development**  
+📘 Currently starting **IT Management**  
+🤖 Beginning an **MBA in Artificial Intelligence**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building solutions from backend to frontend with modern and efficient technologies.  
+💡 Passionate about coding, UI, automation and solving real-world problems.  
+
+📍 São José dos Pinhais - PR  
+🌐 Portfolio: https://brayansilver.github.io/brayan/brayan/  
+🔗 LinkedIn: https://linkedin.com/in/brayan-rosa-da-silveira-b80636150
