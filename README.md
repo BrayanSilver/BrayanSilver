@@ -1,4 +1,4 @@
-# 🚀😎👨‍💻 Brayan R. Silveira 🚀
+# 🚀👨‍💻 Brayan R. Silveira 🚀
 
 **Fullstack Developer | Node.js | React | React Native | Python | Java | HTML • CSS • JavaScript | PL/SQL**
 
