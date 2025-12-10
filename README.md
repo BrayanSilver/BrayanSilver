@@ -14,7 +14,7 @@
 ## 📬 Contact
 
 📍 **Location:** São José dos Pinhais - PR  
-🌐 **Portfolio:** https://brayansilver.github.io/brayan/brayan/  
+🌐 **Portfolio:** https://brayansilver.github.io  
 🔗 **LinkedIn:** https://linkedin.com/in/brayan-rosa-da-silveira-b80636150  
 📧 **Email:** *brayansilver.teen@gmail.com*
 
