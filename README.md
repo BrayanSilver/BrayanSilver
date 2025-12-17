@@ -71,7 +71,7 @@
 ## 🧱 Featured Projects
 
 ### 🔹 Portfolio Website  
-**Repo:** [brayansilver.github.io](https://github.com/BrayanSilver/brayansilver.github.io)  
+**Repo:** [brayansilver.github.io](https://brayansilver.github.io)  
 Personal website with projects, contact and personal info.
 
 ### 🔹 Java Studies  
