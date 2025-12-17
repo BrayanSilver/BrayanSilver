@@ -113,6 +113,6 @@ Python scripts and applications for automation and data analysis.
 **If you like my work, feel free to ⭐ my repositories!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brayan-rosa-da-silveira-b80636150)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://brayansilver.github.io/brayan/brayan/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://brayansilver.github.io)
 
 </div>
