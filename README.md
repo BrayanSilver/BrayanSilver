@@ -2,7 +2,7 @@
 
 # Brayan R. Silveira
 
-### Fullstack Developer
+### Full Stack Developer
 
 <br/>
 
