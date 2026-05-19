@@ -8,7 +8,7 @@
 
 You can find me on
 
-[![Email](https://img.shields.io/badge/EMAIL-brayansilver.teen%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brayansilver.teen@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brayansilver.teen@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brayan-rosa-da-silveira-b80636150)
 [![Portfolio](https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://brayansilver.github.io)
 
