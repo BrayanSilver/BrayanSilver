@@ -18,7 +18,7 @@ You can find me on
 
 ## About me
 
-- Fullstack Developer with focus on backend and mobile
+- Full Stack Developer with focus on backend and mobile
 - Degree in Systems Analysis and Development
 - Postgraduate in IT Management *(in progress)*
 - MBA in Artificial Intelligence *(starting)*
