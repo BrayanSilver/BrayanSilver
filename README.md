@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Brayan Silveira
+# Brayan Silveira
 
 ### Fullstack Developer
 
