@@ -1,6 +1,6 @@
 <div align="center">
 
-# Brayan Silveira
+# Brayan R. Silveira
 
 ### Fullstack Developer
 
