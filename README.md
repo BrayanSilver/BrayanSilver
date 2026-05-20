@@ -94,11 +94,11 @@ You can find me on
 ### Live portfolio
 
 **[brayansilver.github.io](https://brayansilver.github.io)** · [Repository](https://github.com/BrayanSilver/brayansilver.github.io)  
-Personal portfolio with MVC architecture (ES Modules), JSON-driven content, admin panel, featured projects, category carousels, and interactive demos. Deployed on GitHub Pages.
+Personal portfolio with MVC architecture (ES Modules), JSON-driven content, admin panel, featured projects, category carousels, and interactive projects. Deployed on GitHub Pages.
 
 ---
 
-### Featured full-stack demos *(React · Next.js · NestJS)*
+### Featured full-stack projects *(React · Next.js · NestJS)*
 
 | Project | Repository | Highlights |
 |---------|------------|------------|
