@@ -11,6 +11,7 @@ You can find me on
 [![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brayansilver.teen@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brayan-rosa-da-silveira-b80636150)
 [![Portfolio](https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://brayansilver.github.io)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrayanSilver)
 
 </div>
 
@@ -18,11 +19,13 @@ You can find me on
 
 ## About me
 
-- Full Stack Developer with focus on backend and mobile
-- Degree in Systems Analysis and Development
-- Postgraduate in IT Management *(in progress)*
-- MBA in Artificial Intelligence *(starting)*
-- Based in São José dos Pinhais, PR — Brazil
+- **Full Stack Web Developer** building corporate sites, e-commerce, internal systems, and REST APIs
+- Currently at **Grupo Lumicenter Lighting** — web platforms, integrations, and digital products
+- Degree in **Computer Systems Analysis (CST)** — Centro Universitário Santa Cruz de Curitiba
+- Postgraduate in **IT Management** *(in progress)*
+- MBA in **Artificial Intelligence** *(starting)*
+- Based in **São José dos Pinhais, PR — Brazil**
+- 2+ years of freelance experience before joining Lumicenter full-time
 
 ---
 
@@ -41,11 +44,14 @@ You can find me on
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NESTJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Express](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-10B981?style=for-the-badge&logo=fastapi&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/SOCKET.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-**Mobile**
+**Mobile** *(learning & side projects)*
 
 ![React Native](https://img.shields.io/badge/REACT_NATIVE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/EXPO-000020?style=for-the-badge&logo=expo&logoColor=white)
@@ -53,15 +59,18 @@ You can find me on
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Tools**
+**Tools & other**
 
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![WordPress](https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![npm](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
@@ -82,14 +91,72 @@ You can find me on
 
 ## Projects
 
-**[Portfolio](https://brayansilver.github.io)**  
-Personal website with projects and contact information.
+### Live portfolio
 
-**[Java Studies](https://github.com/BrayanSilver/Java_Brayan)**  
-Exercises and projects covering core Java concepts.
+**[brayansilver.github.io](https://brayansilver.github.io)** · [Repository](https://github.com/BrayanSilver/brayansilver.github.io)  
+Personal portfolio with MVC architecture (ES Modules), JSON-driven content, admin panel, featured projects, category carousels, and interactive demos. Deployed on GitHub Pages.
 
-**[Web Projects](https://github.com/BrayanSilver/JS-HTML_Brayan)**  
-Front-end development projects using JavaScript and HTML/CSS.
+---
 
-**[Python Projects](https://github.com/BrayanSilver/Python_Brayan)**  
-Scripts and applications for automation and data processing.
+### Featured full-stack demos *(React · Next.js · NestJS)*
+
+| Project | Repository | Highlights |
+|---------|------------|------------|
+| **TechDash — BI Dashboard** | [PROFESSIONAL_DASHBOARD](https://github.com/BrayanSilver/PROFESSIONAL_DASHBOARD) | Executive KPIs, Recharts, finance & API monitoring, live public data |
+| **IntelliHub AI — AI Hub** | [AI_PROJECT](https://github.com/BrayanSilver/AI_PROJECT) | Chatbot, RAG, OCR, semantic search, content generation (mock-ready for OpenAI) |
+| **FlowCRM — Mini CRM SaaS** | [SAAS](https://github.com/BrayanSilver/SAAS) | Multi-tenant CRM, Kanban deals, tasks board, dashboards |
+| **TechShop — E-commerce** | [E-COMMERCE](https://github.com/BrayanSilver/E-COMMERCE) | Catalog, JWT auth, cart, checkout simulation, admin panel |
+| **Trello Clone — Kanban** | [TRELLO_KANBAN](https://github.com/BrayanSilver/TRELLO_KANBAN) | Boards, drag-and-drop, labels, checklists |
+| **Realtime Hub — WebSocket** | [WEBSOCKET_INSTANT](https://github.com/BrayanSilver/WEBSOCKET_INSTANT) | Multi-room chat, collaborative editor, Socket.IO |
+
+---
+
+### Production & client work *(highlights on the portfolio)*
+
+- **[Lumicenter E-commerce](https://lojaonline.lumicenter.com/)** — Official LED lighting store (catalog, checkout, integrations)
+- **[Lumisoft](https://lumisoft.lumicenter.com/)** — Photometric heatmap & rendering system
+- Showcase sites, landing pages, WordPress, and internal tools *(see full list on the website)*
+
+---
+
+### Study & code collections
+
+**[Java Projects](https://github.com/BrayanSilver/Java_Brayan)** — OOP exercises: loans, pharmacy, calculators, employee management  
+
+**[Python Projects](https://github.com/BrayanSilver/Python_Brayan)** — Automation: backup, monitoring, scraper, email, file organizer  
+
+**[Web Projects (JS/HTML)](https://github.com/BrayanSilver/JS-HTML_Brayan)** — Front-end exercises and small applications  
+
+---
+
+## Portfolio repository — quick start
+
+This repo powers **[brayansilver.github.io](https://brayansilver.github.io)**. No build step — static HTML, modular CSS, and JavaScript ES Modules.
+
+```bash
+git clone https://github.com/BrayanSilver/brayansilver.github.io.git
+cd brayansilver.github.io
+npx serve .
+```
+
+| Path | Purpose |
+|------|---------|
+| `upload/info-pessoal.json` | Bio, hero, skills, experience |
+| `upload/projetos.json` | Projects list & order |
+| `upload/contato.json` | Contact & social links |
+| `upload/projetoN/` | Project screenshots |
+| `admin.html` | Admin panel to edit & export JSON |
+| `src/` | MVC app (`app.js`, views, controllers) |
+
+**Stack:** HTML5 · CSS3 (design tokens, glassmorphism) · Vanilla JS (fetch, Intersection Observer) · GitHub Pages · Google Analytics 4
+
+---
+
+<div align="center">
+
+**Open to opportunities** — let's build something great together.
+
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://brayansilver.github.io)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brayan-rosa-da-silveira-b80636150)
+
+</div>
