@@ -8,7 +8,7 @@
 
 <br/>
 
-**[🇧🇷 Português](#-português)** · **[🇺🇸 English](#-english)**
+**[🇧🇷 Português](#-português)** · **[🇺🇸 English](#-english)** · **[🎮 Mini-game](#-mini-game--caça-ao-commit)**
 
 <br/>
 
@@ -37,6 +37,95 @@
 - MBA em **Inteligência Artificial** *(a iniciar)*
 - Baseado em **São José dos Pinhais, PR — Brasil**
 - 2+ anos de experiência freelancer antes de ingressar na Lumicenter
+
+---
+
+## 🎮 Mini-game — Caça ao Commit
+
+> README do GitHub não roda JavaScript — então o jogo é **clicável com Markdown**.  
+> Encontre o commit certo. 3 portas. Só uma leva ao deploy. 👀
+
+### Nível 1 — O bug sumiu em produção. Onde você olha primeiro?
+
+| 🚪 A | 🚪 B | 🚪 C |
+|:---:|:---:|:---:|
+| [Reescrever tudo em PHP](#pt-trap-a) | [Logs + último deploy](#pt-win-1) | [Apagar o banco “só pra ver”](#pt-trap-c) |
+
+<details>
+<summary>📦 Respostas (spoiler)</summary>
+<br/>
+
+<a id="pt-trap-a"></a>
+**A — Reescrever tudo em PHP**  
+❌ Deploy cancelado. O time de React abriu um issue contra você.
+
+<a id="pt-trap-c"></a>
+**C — Apagar o banco**  
+❌ Restauração de backup + retrospectiva obrigatória. Não foi dessa vez.
+
+<a id="pt-win-1"></a>
+**B — Logs + último deploy** ✅  
+Achou o `undefined` em 12 segundos. +10 XP. Vá para o [Nível 2](#pt-nivel-2).
+
+</details>
+
+<a id="pt-nivel-2"></a>
+### Nível 2 — Qual stack alimenta o TechShop?
+
+| 🧩 | Escolha |
+|---|---|
+| 1️⃣ | [WordPress + Elementor](#pt-trap-wp) |
+| 2️⃣ | [Next.js + NestJS + JWT](#pt-win-2) |
+| 3️⃣ | [Só HTML estático](#pt-trap-html) |
+
+<details>
+<summary>📦 Respostas (spoiler)</summary>
+<br/>
+
+<a id="pt-trap-wp"></a>
+**1 — WordPress** ❌  
+Bonito para landing, mas o TechShop é full-stack com API.
+
+<a id="pt-trap-html"></a>
+**3 — HTML estático** ❌  
+O carrinho JWT não ia curtir.
+
+<a id="pt-win-2"></a>
+**2 — Next.js + NestJS + JWT** ✅  
+Exato — veja o [E-COMMERCE](https://github.com/BrayanSilver/E-COMMERCE). +20 XP → [Nível final](#pt-nivel-3).
+
+</details>
+
+<a id="pt-nivel-3"></a>
+### Nível final — Realtime Hub: o que conecta as salas?
+
+Clique na tecnologia certa:
+
+[GraphQL](#pt-trap-gql) · **[Socket.IO](#pt-win-3)** · [Cron job a cada 1s](#pt-trap-cron)
+
+<details>
+<summary>🏆 Final do jogo</summary>
+<br/>
+
+<a id="pt-trap-gql"></a>
+**GraphQL** ❌ — poderoso, mas aqui o realtime é WebSocket.
+
+<a id="pt-trap-cron"></a>
+**Cron** ❌ — polling não é chat em tempo real.
+
+<a id="pt-win-3"></a>
+**Socket.IO** ✅🎉  
+
+```
+╔══════════════════════════════╗
+║   DEPLOY GREEN — VOCÊ VENCEU ║
+║   Full Stack Hunter · 100 XP ║
+╚══════════════════════════════╝
+```
+
+Curtiu? Explore os projetos abaixo ou jogue de novo no [topo do mini-game](#-mini-game--caça-ao-commit).
+
+</details>
 
 ---
 
@@ -100,6 +189,16 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrayanSilver&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+### 🐍 Snake nas contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrayanSilver/BrayanSilver/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrayanSilver/BrayanSilver/output/github-snake.svg" />
+    <img alt="github-contribution-snake" src="https://raw.githubusercontent.com/BrayanSilver/BrayanSilver/output/github-snake.svg" />
+  </picture>
 </div>
 
 <details>
@@ -196,6 +295,95 @@ npx serve .
 
 ---
 
+## 🎮 Mini-game — Commit Hunt
+
+> GitHub READMEs can't run JavaScript — so this game is **clickable Markdown**.  
+> Find the right commit. 3 doors. Only one ships to production. 👀
+
+### Level 1 — Prod is broken. Where do you look first?
+
+| 🚪 A | 🚪 B | 🚪 C |
+|:---:|:---:|:---:|
+| [Rewrite everything in PHP](#en-trap-a) | [Logs + last deploy](#en-win-1) | [Drop the database “just to check”](#en-trap-c) |
+
+<details>
+<summary>📦 Answers (spoiler)</summary>
+<br/>
+
+<a id="en-trap-a"></a>
+**A — Rewrite in PHP**  
+❌ Deploy cancelled. The React team opened an issue on you.
+
+<a id="en-trap-c"></a>
+**C — Drop the database**  
+❌ Restore from backup + mandatory retro. Try again.
+
+<a id="en-win-1"></a>
+**B — Logs + last deploy** ✅  
+You spotted the `undefined` in 12 seconds. +10 XP. Go to [Level 2](#en-level-2).
+
+</details>
+
+<a id="en-level-2"></a>
+### Level 2 — Which stack powers TechShop?
+
+| 🧩 | Pick one |
+|---|---|
+| 1️⃣ | [WordPress + Elementor](#en-trap-wp) |
+| 2️⃣ | [Next.js + NestJS + JWT](#en-win-2) |
+| 3️⃣ | [Static HTML only](#en-trap-html) |
+
+<details>
+<summary>📦 Answers (spoiler)</summary>
+<br/>
+
+<a id="en-trap-wp"></a>
+**1 — WordPress** ❌  
+Great for landings — TechShop is full-stack with an API.
+
+<a id="en-trap-html"></a>
+**3 — Static HTML** ❌  
+The JWT cart would like a word.
+
+<a id="en-win-2"></a>
+**2 — Next.js + NestJS + JWT** ✅  
+Nailed it — see [E-COMMERCE](https://github.com/BrayanSilver/E-COMMERCE). +20 XP → [Final level](#en-level-3).
+
+</details>
+
+<a id="en-level-3"></a>
+### Final level — Realtime Hub: what connects the rooms?
+
+Click the right tech:
+
+[GraphQL](#en-trap-gql) · **[Socket.IO](#en-win-3)** · [Cron every 1s](#en-trap-cron)
+
+<details>
+<summary>🏆 Game over</summary>
+<br/>
+
+<a id="en-trap-gql"></a>
+**GraphQL** ❌ — powerful, but realtime here is WebSocket.
+
+<a id="en-trap-cron"></a>
+**Cron** ❌ — polling is not a live chat.
+
+<a id="en-win-3"></a>
+**Socket.IO** ✅🎉  
+
+```
+╔══════════════════════════════╗
+║   DEPLOY GREEN — YOU WIN     ║
+║   Full Stack Hunter · 100 XP ║
+╚══════════════════════════════╝
+```
+
+Liked it? Browse the projects below or replay from the [mini-game top](#-mini-game--commit-hunt).
+
+</details>
+
+---
+
 ## 🛠️ Skills
 
 **Frontend**
@@ -256,6 +444,16 @@ npx serve .
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrayanSilver&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+### 🐍 Contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BrayanSilver/BrayanSilver/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BrayanSilver/BrayanSilver/output/github-snake.svg" />
+    <img alt="github-contribution-snake" src="https://raw.githubusercontent.com/BrayanSilver/BrayanSilver/output/github-snake.svg" />
+  </picture>
 </div>
 
 <details>
