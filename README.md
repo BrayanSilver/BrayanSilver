@@ -1,35 +1,41 @@
 <div align="center">
 
-# Brayan R. Silveira
+<!-- BANNER ANIMADO (capsule-render) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:000000&height=200&section=header&text=Brayan%20R.%20Silveira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-### Full Stack Developer
+<!-- TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+NestJS+%7C+Node.js;Construindo+produtos+web+de+ponta+a+ponta;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-You can find me on
-
+<!-- BADGES DE CONTATO -->
 [![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brayansilver.teen@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brayan-rosa-da-silveira-b80636150)
 [![Portfolio](https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://brayansilver.github.io)
 [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrayanSilver)
 
+<!-- BADGES DE STATUS -->
+![Profile Views](https://komarev.com/ghpvc/?username=BrayanSilver&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/BrayanSilver?style=for-the-badge&color=06B6D4&labelColor=000000)
+![Last Commit](https://img.shields.io/github/last-commit/BrayanSilver/brayansilver.github.io?style=for-the-badge&color=06B6D4&labelColor=000000)
+
 </div>
 
 ---
 
-## About me
+## 👨‍💻 Sobre mim
 
-- **Full Stack Web Developer** building corporate sites, e-commerce, internal systems, and REST APIs
-- Currently at **Grupo Lumicenter Lighting** — web platforms, integrations, and digital products
-- Degree in **Computer Systems Analysis (CST)** — Centro Universitário Santa Cruz de Curitiba
-- Postgraduate in **IT Management** *(in progress)*
-- MBA in **Artificial Intelligence** *(starting)*
-- Based in **São José dos Pinhais, PR — Brazil**
-- 2+ years of freelance experience before joining Lumicenter full-time
+- **Full Stack Web Developer** construindo sites corporativos, e-commerce, sistemas internos e APIs REST
+- Atualmente na **Grupo Lumicenter Lighting** — plataformas web, integrações e produtos digitais
+- Graduado em **Análise e Desenvolvimento de Sistemas (CST)** — Centro Universitário Santa Cruz de Curitiba
+- Pós-graduando em **Gestão de TI** *(em andamento)*
+- MBA em **Inteligência Artificial** *(a iniciar)*
+- Baseado em **São José dos Pinhais, PR — Brasil**
+- 2+ anos de experiência freelancer antes de ingressar na Lumicenter
 
 ---
 
-## Skills
+## 🛠️ Skills
 
 **Frontend**
 
@@ -51,7 +57,7 @@ You can find me on
 ![REST API](https://img.shields.io/badge/REST_API-10B981?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/SOCKET.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-**Mobile** *(learning & side projects)*
+**Mobile** *(aprendizado & side projects)*
 
 ![React Native](https://img.shields.io/badge/REACT_NATIVE-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/EXPO-000020?style=for-the-badge&logo=expo&logoColor=white)
@@ -76,62 +82,92 @@ You can find me on
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats & Charts
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrayanSilver&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanSilver&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrayanSilver&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanSilver&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrayanSilver&theme=tokyonight&hide_border=true" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrayanSilver&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+<details>
+<summary><b>📈 Gráfico de contribuições em 3D (clique para expandir)</b></summary>
+<br/>
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=BrayanSilver&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</div>
+</details>
+
 ---
 
-## Projects
+## 🎬 Demonstrações
 
-### Live portfolio
+> Adicione aqui GIFs curtos (3–8s) mostrando cada projeto em ação. Uma gravação de tela convertida em GIF (ex: via [ScreenToGif](https://www.screentogif.com/), [Gifski](https://gif.ski/) ou `ffmpeg`) comunica muito mais rápido que texto.
 
-**[brayansilver.github.io](https://brayansilver.github.io)** · [Repository](https://github.com/BrayanSilver/brayansilver.github.io)  
-Personal portfolio with MVC architecture (ES Modules), JSON-driven content, admin panel, featured projects, category carousels, and interactive projects. Deployed on GitHub Pages.
+<div align="center">
+
+| Projeto | Preview |
+|---|---|
+| **TechDash — BI Dashboard** | ![demo](https://via.placeholder.com/480x270.gif?text=GIF+do+TechDash+aqui) |
+| **FlowCRM — Mini CRM SaaS** | ![demo](https://via.placeholder.com/480x270.gif?text=GIF+do+FlowCRM+aqui) |
+| **TechShop — E-commerce** | ![demo](https://via.placeholder.com/480x270.gif?text=GIF+do+TechShop+aqui) |
+
+</div>
+
+*Substitua os placeholders acima pelos GIFs reais (suba os arquivos em uma pasta `assets/demos/` no repositório e referencie o caminho local).*
 
 ---
 
-### Featured full-stack projects *(React · Next.js · NestJS)*
+## 🚀 Projetos
 
-| Project | Repository | Highlights |
+### Portfólio ao vivo
+
+**[brayansilver.github.io](https://brayansilver.github.io)** · [Repositório](https://github.com/BrayanSilver/brayansilver.github.io)
+Portfólio pessoal com arquitetura MVC (ES Modules), conteúdo orientado a JSON, painel admin, projetos em destaque, carrosséis por categoria e projetos interativos. Deploy no GitHub Pages.
+
+---
+
+### Projetos full-stack em destaque *(React · Next.js · NestJS)*
+
+| Projeto | Repositório | Destaques |
 |---------|------------|------------|
-| **TechDash — BI Dashboard** | [PROFESSIONAL_DASHBOARD](https://github.com/BrayanSilver/PROFESSIONAL_DASHBOARD) | Executive KPIs, Recharts, finance & API monitoring, live public data |
-| **IntelliHub AI — AI Hub** | [AI_PROJECT](https://github.com/BrayanSilver/AI_PROJECT) | Chatbot, RAG, OCR, semantic search, content generation (mock-ready for OpenAI) |
-| **FlowCRM — Mini CRM SaaS** | [SAAS](https://github.com/BrayanSilver/SAAS) | Multi-tenant CRM, Kanban deals, tasks board, dashboards |
-| **TechShop — E-commerce** | [E-COMMERCE](https://github.com/BrayanSilver/E-COMMERCE) | Catalog, JWT auth, cart, checkout simulation, admin panel |
-| **Trello Clone — Kanban** | [TRELLO_KANBAN](https://github.com/BrayanSilver/TRELLO_KANBAN) | Boards, drag-and-drop, labels, checklists |
-| **Realtime Hub — WebSocket** | [WEBSOCKET_INSTANT](https://github.com/BrayanSilver/WEBSOCKET_INSTANT) | Multi-room chat, collaborative editor, Socket.IO |
+| **TechDash — BI Dashboard** | [PROFESSIONAL_DASHBOARD](https://github.com/BrayanSilver/PROFESSIONAL_DASHBOARD) | KPIs executivos, Recharts, monitoramento financeiro & de APIs, dados públicos ao vivo |
+| **IntelliHub AI — Hub de IA** | [AI_PROJECT](https://github.com/BrayanSilver/AI_PROJECT) | Chatbot, RAG, OCR, busca semântica, geração de conteúdo (pronto para mock com OpenAI) |
+| **FlowCRM — Mini CRM SaaS** | [SAAS](https://github.com/BrayanSilver/SAAS) | CRM multi-tenant, Kanban de negociações, quadro de tarefas, dashboards |
+| **TechShop — E-commerce** | [E-COMMERCE](https://github.com/BrayanSilver/E-COMMERCE) | Catálogo, autenticação JWT, carrinho, checkout simulado, painel admin |
+| **Trello Clone — Kanban** | [TRELLO_KANBAN](https://github.com/BrayanSilver/TRELLO_KANBAN) | Quadros, drag-and-drop, labels, checklists |
+| **Realtime Hub — WebSocket** | [WEBSOCKET_INSTANT](https://github.com/BrayanSilver/WEBSOCKET_INSTANT) | Chat multi-sala, editor colaborativo, Socket.IO |
 
 ---
 
-### Production & client work *(highlights on the portfolio)*
+### Produção & trabalhos para clientes *(destaques no portfólio)*
 
-- **[Lumicenter E-commerce](https://lojaonline.lumicenter.com/)** — Official LED lighting store (catalog, checkout, integrations)
-- **[Lumisoft](https://lumisoft.lumicenter.com/)** — Photometric heatmap & rendering system
-- Showcase sites, landing pages, WordPress, and internal tools *(see full list on the website)*
-
----
-
-### Study & code collections
-
-**[Java Projects](https://github.com/BrayanSilver/Java_Brayan)** — OOP exercises: loans, pharmacy, calculators, employee management  
-
-**[Python Projects](https://github.com/BrayanSilver/Python_Brayan)** — Automation: backup, monitoring, scraper, email, file organizer  
-
-**[Web Projects (JS/HTML)](https://github.com/BrayanSilver/JS-HTML_Brayan)** — Front-end exercises and small applications  
+- **[Lumicenter E-commerce](https://lojaonline.lumicenter.com/)** — Loja oficial de iluminação LED (catálogo, checkout, integrações)
+- **[Lumisoft](https://lumisoft.lumicenter.com/)** — Sistema de heatmap fotométrico & renderização
+- Sites institucionais, landing pages, WordPress e ferramentas internas *(lista completa no site)*
 
 ---
 
-## Portfolio repository — quick start
+### Coleções de estudo & código
 
-This repo powers **[brayansilver.github.io](https://brayansilver.github.io)**. No build step — static HTML, modular CSS, and JavaScript ES Modules.
+**[Projetos Java](https://github.com/BrayanSilver/Java_Brayan)** — Exercícios OOP: empréstimos, farmácia, calculadoras, gestão de funcionários
+
+**[Projetos Python](https://github.com/BrayanSilver/Python_Brayan)** — Automação: backup, monitoramento, scraper, e-mail, organizador de arquivos
+
+**[Projetos Web (JS/HTML)](https://github.com/BrayanSilver/JS-HTML_Brayan)** — Exercícios front-end e pequenas aplicações
+
+---
+
+## ⚡ Portfólio — quick start
+
+Este repositório alimenta o **[brayansilver.github.io](https://brayansilver.github.io)**. Sem build step — HTML estático, CSS modular e JavaScript ES Modules.
 
 ```bash
 git clone https://github.com/BrayanSilver/brayansilver.github.io.git
@@ -139,14 +175,14 @@ cd brayansilver.github.io
 npx serve .
 ```
 
-| Path | Purpose |
+| Caminho | Finalidade |
 |------|---------|
-| `upload/info-pessoal.json` | Bio, hero, skills, experience |
-| `upload/projetos.json` | Projects list & order |
-| `upload/contato.json` | Contact & social links |
-| `upload/projetoN/` | Project screenshots |
-| `admin.html` | Admin panel to edit & export JSON |
-| `src/` | MVC app (`app.js`, views, controllers) |
+| `upload/info-pessoal.json` | Bio, hero, skills, experiência |
+| `upload/projetos.json` | Lista e ordem dos projetos |
+| `upload/contato.json` | Contato & redes sociais |
+| `upload/projetoN/` | Screenshots dos projetos |
+| `admin.html` | Painel admin para editar & exportar JSON |
+| `src/` | App MVC (`app.js`, views, controllers) |
 
 **Stack:** HTML5 · CSS3 (design tokens, glassmorphism) · Vanilla JS (fetch, Intersection Observer) · GitHub Pages · Google Analytics 4
 
@@ -154,9 +190,11 @@ npx serve .
 
 <div align="center">
 
-**Open to opportunities** — let's build something great together.
+**Aberto a oportunidades** — vamos construir algo incrível juntos.
 
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://brayansilver.github.io)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brayan-rosa-da-silveira-b80636150)
+[![Portfolio](https://img.shields.io/badge/Ver_Portfólio-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://brayansilver.github.io)
+[![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brayan-rosa-da-silveira-b80636150)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:06B6D4&height=100&section=footer" width="100%"/>
 
 </div>
