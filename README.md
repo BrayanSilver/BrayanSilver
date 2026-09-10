@@ -87,6 +87,53 @@
 
 ---
 
+## 🔄 Fluxos
+
+### Trajetória
+
+```mermaid
+flowchart LR
+  A[Freelancer 2022-2024] --> B[Estagio Power BI]
+  B --> C[Sistemas da Informacao]
+  C --> D[Full Stack Junior]
+  D --> E[Lumicenter + Portfolio]
+```
+
+### Como entrego um produto web
+
+```mermaid
+flowchart TB
+  Req[Requisito / negocio] --> UX[UI + Frontend]
+  Req --> API[API REST / NestJS]
+  UX --> INT[Integracao]
+  API --> INT
+  INT --> DB[(MySQL / MongoDB)]
+  INT --> DEPLOY[Deploy + monitoramento]
+  DEPLOY --> FEED[Feedback e iteracao]
+  FEED --> Req
+```
+
+### Mapa dos projetos full-stack
+
+```mermaid
+flowchart TB
+  Portfolio[Portfolio GitHub Pages] --> Dash[TechDash BI]
+  Portfolio --> AI[IntelliHub AI]
+  Portfolio --> CRM[FlowCRM SaaS]
+  Portfolio --> Shop[TechShop]
+  Portfolio --> Kanban[Trello Clone]
+  Portfolio --> RT[Realtime Hub]
+  Dash --> Stack[Next.js + NestJS]
+  AI --> Stack
+  CRM --> Stack
+  Shop --> Stack
+  Kanban --> Stack
+  RT --> Stack
+  RT --> WS[Socket.IO]
+```
+
+---
+
 ## 🎮 Mini-game — Caça ao Commit
 
 > No README do GitHub **não roda JavaScript**.  
@@ -345,6 +392,53 @@ npx serve .
 ![WordPress](https://img.shields.io/badge/WORDPRESS-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![npm](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+---
+
+## 🔄 Flows
+
+### Career path
+
+```mermaid
+flowchart LR
+  A[Freelance 2022-2024] --> B[Power BI Internship]
+  B --> C[Information Systems]
+  C --> D[Junior Full Stack]
+  D --> E[Lumicenter + Portfolio]
+```
+
+### How I ship a web product
+
+```mermaid
+flowchart TB
+  Req[Business requirement] --> UX[UI + Frontend]
+  Req --> API[REST API / NestJS]
+  UX --> INT[Integration]
+  API --> INT
+  INT --> DB[(MySQL / MongoDB)]
+  INT --> DEPLOY[Deploy + monitoring]
+  DEPLOY --> FEED[Feedback and iteration]
+  FEED --> Req
+```
+
+### Featured full-stack map
+
+```mermaid
+flowchart TB
+  Portfolio[Portfolio GitHub Pages] --> Dash[TechDash BI]
+  Portfolio --> AI[IntelliHub AI]
+  Portfolio --> CRM[FlowCRM SaaS]
+  Portfolio --> Shop[TechShop]
+  Portfolio --> Kanban[Trello Clone]
+  Portfolio --> RT[Realtime Hub]
+  Dash --> Stack[Next.js + NestJS]
+  AI --> Stack
+  CRM --> Stack
+  Shop --> Stack
+  Kanban --> Stack
+  RT --> Stack
+  RT --> WS[Socket.IO]
+```
 
 ---
 
