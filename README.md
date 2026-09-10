@@ -42,88 +42,94 @@
 
 ## 🎮 Mini-game — Caça ao Commit
 
-> README do GitHub não roda JavaScript — então o jogo é **clicável com Markdown**.  
-> Encontre o commit certo. 3 portas. Só uma leva ao deploy. 👀
+> No README do GitHub **não roda JavaScript**.  
+> Por isso cada porta é um `<details>`: **clique na opção** para abrir o resultado na hora.
 
 ### Nível 1 — O bug sumiu em produção. Onde você olha primeiro?
 
-| 🚪 A | 🚪 B | 🚪 C |
-|:---:|:---:|:---:|
-| [Reescrever tudo em PHP](#pt-trap-a) | [Logs + último deploy](#pt-win-1) | [Apagar o banco “só pra ver”](#pt-trap-c) |
-
 <details>
-<summary>📦 Respostas (spoiler)</summary>
+<summary>🚪 A — Reescrever tudo em PHP</summary>
 <br/>
 
-<a id="pt-trap-a"></a>
-**A — Reescrever tudo em PHP**  
-❌ Deploy cancelado. O time de React abriu um issue contra você.
+❌ Deploy cancelado. O time de React abriu um issue contra você. Tente outra porta.
 
-<a id="pt-trap-c"></a>
-**C — Apagar o banco**  
+</details>
+
+<details>
+<summary>🚪 B — Logs + último deploy</summary>
+<br/>
+
+✅ **Acertou!** Achou o `undefined` em 12 segundos. **+10 XP**  
+Continue no **Nível 2** abaixo.
+
+</details>
+
+<details>
+<summary>🚪 C — Apagar o banco “só pra ver”</summary>
+<br/>
+
 ❌ Restauração de backup + retrospectiva obrigatória. Não foi dessa vez.
 
-<a id="pt-win-1"></a>
-**B — Logs + último deploy** ✅  
-Achou o `undefined` em 12 segundos. +10 XP. Vá para o [Nível 2](#pt-nivel-2).
-
 </details>
 
-<a id="pt-nivel-2"></a>
 ### Nível 2 — Qual stack alimenta o TechShop?
 
-| 🧩 | Escolha |
-|---|---|
-| 1️⃣ | [WordPress + Elementor](#pt-trap-wp) |
-| 2️⃣ | [Next.js + NestJS + JWT](#pt-win-2) |
-| 3️⃣ | [Só HTML estático](#pt-trap-html) |
-
 <details>
-<summary>📦 Respostas (spoiler)</summary>
+<summary>1️⃣ WordPress + Elementor</summary>
 <br/>
 
-<a id="pt-trap-wp"></a>
-**1 — WordPress** ❌  
-Bonito para landing, mas o TechShop é full-stack com API.
-
-<a id="pt-trap-html"></a>
-**3 — HTML estático** ❌  
-O carrinho JWT não ia curtir.
-
-<a id="pt-win-2"></a>
-**2 — Next.js + NestJS + JWT** ✅  
-Exato — veja o [E-COMMERCE](https://github.com/BrayanSilver/E-COMMERCE). +20 XP → [Nível final](#pt-nivel-3).
+❌ Bonito para landing, mas o TechShop é full-stack com API.
 
 </details>
 
-<a id="pt-nivel-3"></a>
-### Nível final — Realtime Hub: o que conecta as salas?
-
-Clique na tecnologia certa:
-
-[GraphQL](#pt-trap-gql) · **[Socket.IO](#pt-win-3)** · [Cron job a cada 1s](#pt-trap-cron)
-
 <details>
-<summary>🏆 Final do jogo</summary>
+<summary>2️⃣ Next.js + NestJS + JWT</summary>
 <br/>
 
-<a id="pt-trap-gql"></a>
-**GraphQL** ❌ — poderoso, mas aqui o realtime é WebSocket.
+✅ **Acertou!** Veja o [E-COMMERCE](https://github.com/BrayanSilver/E-COMMERCE). **+20 XP**  
+Vá para o **Nível final** abaixo.
 
-<a id="pt-trap-cron"></a>
-**Cron** ❌ — polling não é chat em tempo real.
+</details>
 
-<a id="pt-win-3"></a>
-**Socket.IO** ✅🎉  
+<details>
+<summary>3️⃣ Só HTML estático</summary>
+<br/>
+
+❌ O carrinho JWT não ia curtir.
+
+</details>
+
+### Nível final — Realtime Hub: o que conecta as salas?
+
+<details>
+<summary>GraphQL</summary>
+<br/>
+
+❌ Poderoso, mas aqui o realtime é WebSocket.
+
+</details>
+
+<details>
+<summary>⚡ Socket.IO</summary>
+<br/>
+
+✅🎉 **DEPLOY GREEN — VOCÊ VENCEU**
 
 ```
 ╔══════════════════════════════╗
-║   DEPLOY GREEN — VOCÊ VENCEU ║
 ║   Full Stack Hunter · 100 XP ║
 ╚══════════════════════════════╝
 ```
 
-Curtiu? Explore os projetos abaixo ou jogue de novo no [topo do mini-game](#-mini-game--caça-ao-commit).
+Curtiu? Explore os projetos abaixo ou feche as portas e jogue de novo.
+
+</details>
+
+<details>
+<summary>Cron job a cada 1s</summary>
+<br/>
+
+❌ Polling não é chat em tempo real.
 
 </details>
 
@@ -297,88 +303,94 @@ npx serve .
 
 ## 🎮 Mini-game — Commit Hunt
 
-> GitHub READMEs can't run JavaScript — so this game is **clickable Markdown**.  
-> Find the right commit. 3 doors. Only one ships to production. 👀
+> GitHub READMEs **can't run JavaScript**.  
+> Each door is a `<details>` block: **click the option** to reveal the result instantly.
 
 ### Level 1 — Prod is broken. Where do you look first?
 
-| 🚪 A | 🚪 B | 🚪 C |
-|:---:|:---:|:---:|
-| [Rewrite everything in PHP](#en-trap-a) | [Logs + last deploy](#en-win-1) | [Drop the database “just to check”](#en-trap-c) |
-
 <details>
-<summary>📦 Answers (spoiler)</summary>
+<summary>🚪 A — Rewrite everything in PHP</summary>
 <br/>
 
-<a id="en-trap-a"></a>
-**A — Rewrite in PHP**  
-❌ Deploy cancelled. The React team opened an issue on you.
+❌ Deploy cancelled. The React team opened an issue on you. Try another door.
 
-<a id="en-trap-c"></a>
-**C — Drop the database**  
+</details>
+
+<details>
+<summary>🚪 B — Logs + last deploy</summary>
+<br/>
+
+✅ **Correct!** You spotted the `undefined` in 12 seconds. **+10 XP**  
+Continue to **Level 2** below.
+
+</details>
+
+<details>
+<summary>🚪 C — Drop the database “just to check”</summary>
+<br/>
+
 ❌ Restore from backup + mandatory retro. Try again.
 
-<a id="en-win-1"></a>
-**B — Logs + last deploy** ✅  
-You spotted the `undefined` in 12 seconds. +10 XP. Go to [Level 2](#en-level-2).
-
 </details>
 
-<a id="en-level-2"></a>
 ### Level 2 — Which stack powers TechShop?
 
-| 🧩 | Pick one |
-|---|---|
-| 1️⃣ | [WordPress + Elementor](#en-trap-wp) |
-| 2️⃣ | [Next.js + NestJS + JWT](#en-win-2) |
-| 3️⃣ | [Static HTML only](#en-trap-html) |
-
 <details>
-<summary>📦 Answers (spoiler)</summary>
+<summary>1️⃣ WordPress + Elementor</summary>
 <br/>
 
-<a id="en-trap-wp"></a>
-**1 — WordPress** ❌  
-Great for landings — TechShop is full-stack with an API.
-
-<a id="en-trap-html"></a>
-**3 — Static HTML** ❌  
-The JWT cart would like a word.
-
-<a id="en-win-2"></a>
-**2 — Next.js + NestJS + JWT** ✅  
-Nailed it — see [E-COMMERCE](https://github.com/BrayanSilver/E-COMMERCE). +20 XP → [Final level](#en-level-3).
+❌ Great for landings — TechShop is full-stack with an API.
 
 </details>
 
-<a id="en-level-3"></a>
-### Final level — Realtime Hub: what connects the rooms?
-
-Click the right tech:
-
-[GraphQL](#en-trap-gql) · **[Socket.IO](#en-win-3)** · [Cron every 1s](#en-trap-cron)
-
 <details>
-<summary>🏆 Game over</summary>
+<summary>2️⃣ Next.js + NestJS + JWT</summary>
 <br/>
 
-<a id="en-trap-gql"></a>
-**GraphQL** ❌ — powerful, but realtime here is WebSocket.
+✅ **Correct!** See [E-COMMERCE](https://github.com/BrayanSilver/E-COMMERCE). **+20 XP**  
+Go to the **Final level** below.
 
-<a id="en-trap-cron"></a>
-**Cron** ❌ — polling is not a live chat.
+</details>
 
-<a id="en-win-3"></a>
-**Socket.IO** ✅🎉  
+<details>
+<summary>3️⃣ Static HTML only</summary>
+<br/>
+
+❌ The JWT cart would like a word.
+
+</details>
+
+### Final level — Realtime Hub: what connects the rooms?
+
+<details>
+<summary>GraphQL</summary>
+<br/>
+
+❌ Powerful, but realtime here is WebSocket.
+
+</details>
+
+<details>
+<summary>⚡ Socket.IO</summary>
+<br/>
+
+✅🎉 **DEPLOY GREEN — YOU WIN**
 
 ```
 ╔══════════════════════════════╗
-║   DEPLOY GREEN — YOU WIN     ║
 ║   Full Stack Hunter · 100 XP ║
 ╚══════════════════════════════╝
 ```
 
-Liked it? Browse the projects below or replay from the [mini-game top](#-mini-game--commit-hunt).
+Liked it? Explore the projects below or close the doors and play again.
+
+</details>
+
+<details>
+<summary>Cron every 1s</summary>
+<br/>
+
+❌ Polling is not a live chat.
 
 </details>
 
