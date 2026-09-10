@@ -23,9 +23,6 @@
 
 ---
 
-<img width="980" height="975" alt="ascii_art" src="https://github.com/user-attachments/assets/1d74c355-743e-4c13-85c6-48cdc06780b7" />
-
-
 ## 👨‍💻 Sobre mim
 
 - **Full Stack Web Developer** construindo sites corporativos, e-commerce, sistemas internos e APIs REST
@@ -35,6 +32,8 @@
 - MBA em **Inteligência Artificial** *(a iniciar)*
 - Baseado em **São José dos Pinhais, PR — Brasil**
 - 2+ anos de experiência freelancer antes de ingressar na Lumicenter
+
+<img width="980" height="975" alt="ascii_art" src="https://github.com/user-attachments/assets/1d74c355-743e-4c13-85c6-48cdc06780b7" />
 
 ---
 
