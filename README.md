@@ -1,7 +1,3 @@
-
-<img width="822" height="842" alt="ascii_terminal" src="https://github.com/user-attachments/assets/c363aef5-d9c1-489a-8483-b10f01bf7f8b" />
-
-
 <div align="center">
 
 # Brayan R. Silveira
@@ -21,15 +17,18 @@ You can find me on
 
 ---
 
-About me
+## About me
+
 <img src="./assets/ascii_terminal.png" alt="Brayan R. Silveira - ASCII portrait" width="200" align="left" style="margin-right: 20px;"/>
-Full Stack Web Developer building corporate sites, e-commerce, internal systems, and REST APIs
-Currently at Grupo Lumicenter Lighting — web platforms, integrations, and digital products
-Degree in Computer Systems Analysis (CST) — Centro Universitário Santa Cruz de Curitiba
-Postgraduate in IT Management (in progress)
-MBA in Artificial Intelligence (starting)
-Based in São José dos Pinhais, PR — Brazil
-2+ years of freelance experience before joining Lumicenter full-time
+
+- **Full Stack Web Developer** building corporate sites, e-commerce, internal systems, and REST APIs
+- Currently at **Grupo Lumicenter Lighting** — web platforms, integrations, and digital products
+- Degree in **Computer Systems Analysis (CST)** — Centro Universitário Santa Cruz de Curitiba
+- Postgraduate in **IT Management** *(in progress)*
+- MBA in **Artificial Intelligence** *(starting)*
+- Based in **São José dos Pinhais, PR — Brazil**
+- 2+ years of freelance experience before joining Lumicenter full-time
+
 <br clear="left"/>
 
 ---
