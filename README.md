@@ -99,20 +99,6 @@ flowchart LR
   D --> E[Lumicenter + Portfolio]
 ```
 
-### Como entrego um produto web
-
-```mermaid
-flowchart TB
-  Req[Requisito / negocio] --> UX[UI + Frontend]
-  Req --> API[API REST / NestJS]
-  UX --> INT[Integracao]
-  API --> INT
-  INT --> DB[(MySQL / MongoDB)]
-  INT --> DEPLOY[Deploy + monitoramento]
-  DEPLOY --> FEED[Feedback e iteracao]
-  FEED --> Req
-```
-
 ### Mapa dos projetos full-stack
 
 ```mermaid
