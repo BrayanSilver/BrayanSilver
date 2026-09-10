@@ -1,1 +1,33 @@
-  <div align="center"> # Brayan R. Silveira ### Full Stack Developer <br/> You can find me on [![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brayansilver.teen@gmail.com)[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brayan-rosa-da-silveira-b80636150)[![Portfolio](https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://brayansilver.github.io)[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrayanSilver) </div> --- ## About me - **Full Stack Web Developer** building corporate sites, e-commerce, internal systems, and REST APIs- Currently at **Grupo Lumicenter Lighting** — web platforms, integrations, and digital products- Degree in **Computer Systems Analysis (CST)** — Centro Universitário Santa Cruz de Curitiba- Postgraduate in **IT Management** *(in progress)*- MBA in **Artificial Intelligence** *(starting)*- Based in **São José dos Pinhais, PR — Brazil**- 2+ years of freelance experience before joining Lumicenter full-time --- ## Skills **Frontend** ![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![TypeScript](https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white)![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![Tailwind CSS](https://img.shields.io/badge/TAILWINDCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) **Backend** ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+### Live portfolio
+
+**[brayansilver.github.io](https://brayansilver.github.io)** · [Repository](https://github.com/BrayanSilver/brayansilver.github.io)  
+Personal portfolio with MVC architecture (ES Modules), JSON-driven content, admin panel, featured projects, category carousels, and interactive demos. Deployed on GitHub Pages.
+Personal portfolio with MVC architecture (ES Modules), JSON-driven content, admin panel, featured projects, category carousels, and interactive projects. Deployed on GitHub Pages.
+
+---
+
+### Featured full-stack demos *(React · Next.js · NestJS)*
+### Featured full-stack projects *(React · Next.js · NestJS)*
+
+| Project | Repository | Highlights |
+|---------|------------|------------|
+| **TechDash — BI Dashboard** | [PROFESSIONAL_DASHBOARD](https://github.com/BrayanSilver/PROFESSIONAL_DASHBOARD) | Executive KPIs, Recharts, finance & API monitoring, live public data |
+| **IntelliHub AI — AI Hub** | [AI_PROJECT](https://github.com/BrayanSilver/AI_PROJECT) | Chatbot, RAG, OCR, semantic search, content generation (mock-ready for OpenAI) |
+| **FlowCRM — Mini CRM SaaS** | [SAAS](https://github.com/BrayanSilver/SAAS) | Multi-tenant CRM, Kanban deals, tasks board, dashboards |
+| **TechShop — E-commerce** | [E-COMMERCE](https://github.com/BrayanSilver/E-COMMERCE) | Catalog, JWT auth, cart, checkout simulation, admin panel |
+| **Trello Clone — Kanban** | [TRELLO_KANBAN](https://github.com/BrayanSilver/TRELLO_KANBAN) | Boards, drag-and-drop, labels, checklists |
+| **Realtime Hub — WebSocket** | [WEBSOCKET_INSTANT](https://github.com/BrayanSilver/WEBSOCKET_INSTANT) | Multi-room chat, collaborative editor, Socket.IO |
+
+---
+
+### Production & client work *(highlights on the portfolio)*
+
+- **[Lumicenter E-commerce](https://lojaonline.lumicenter.com/)** — Official LED lighting store (catalog, checkout, integrations)
+- **[Lumisoft](https://lumisoft.lumicenter.com/)** — Photometric heatmap & rendering system
+- Showcase sites, landing pages, WordPress, and internal tools *(see full list on the website)*
+
+---
+
+### Study & code collections
+
+**[Java Projects](https://github.com/BrayanSilver/Java_Brayan)** — OOP exercises: loans, pharmacy, calculators, employee management  
