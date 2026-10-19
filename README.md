@@ -222,6 +222,9 @@ Curtiu? Explore os projetos abaixo ou feche as portas e jogue de novo.
 **[brayansilver.github.io](https://brayansilver.github.io)** · [Repositório](https://github.com/BrayanSilver/brayansilver.github.io)  
 Portfólio pessoal com arquitetura MVC (ES Modules), conteúdo orientado a JSON, painel admin, projetos em destaque e carrosséis por categoria. Deploy no GitHub Pages.
 
+**FaturaPulse — Dashboard de Faturamento** · [Demo](https://fatura-pulse.vercel.app) · [Repositório](https://github.com/BrayanSilver/fatura-pulse)  
+Dashboard de TV com notas, clientes, canais, metas e filtros. Dados fictícios gerados no navegador.
+
 ---
 
 ### Projetos full-stack em destaque *(React · Next.js · NestJS)*
@@ -516,6 +519,9 @@ Liked it? Explore the projects below or close the doors and play again.
 
 **[brayansilver.github.io](https://brayansilver.github.io)** · [Repository](https://github.com/BrayanSilver/brayansilver.github.io)  
 Personal portfolio with MVC architecture (ES Modules), JSON-driven content, admin panel, featured projects, and category carousels. Deployed on GitHub Pages.
+
+**FaturaPulse — Billing Dashboard** · [Demo](https://fatura-pulse.vercel.app) · [Repository](https://github.com/BrayanSilver/fatura-pulse)  
+TV dashboard with invoices, clients, channels, goals and filters. Fictional data generated in the browser.
 
 ---
 
